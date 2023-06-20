@@ -4,19 +4,28 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python developer and future Data Scientist
 ------------------------------------------
 
-### Skills
+### Main technology stack
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
-</p>
+<code>![Python](https://img.shields.io/badge/pyhton-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)</code>
+<code>![Fastapi](https://img.shields.io/badge/-fastapi-4fc08d?style=for-the-badge&logo=fastapi&logoColor=white)</code>
+<code>![Flask](https://img.shields.io/badge/flask-hotpink.svg?style=for-the-badge&logo=flask&logoColor=white)</code>
+<code>![Django](https://img.shields.io/badge/django-%238DD6F9.svg?style=for-the-badge&logo=django&logoColor=black)</code>
 
+
+<code>![Mysql](https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=%2361DAFB)</code>
+<code>![Postgresql](https://img.shields.io/badge/postgresql-%231572B6.svg?style=for-the-badge&logo=postgresql&logoColor=white)</code>
+<code>![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-47A248?style=for-the-badge&logo=sqlalchemy&logoColor=white)</code>
+<code>![Mongo DB](https://img.shields.io/badge/-mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)</code>
+
+<code>![Docker](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)</code>
+<code>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</code>
+
+### Other skills
+<code>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)</code>
+<code>![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)</code>
+<code>![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)</code>
+<code>![Java](https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)</code>
+<code>![CISCO](https://img.shields.io/badge/cisco-%2300599C.svg?style=for-the-badge&logo=cisco&logoColor=white)</code>
 ### Badges
 
 <b>My GitHub Stats</b>
