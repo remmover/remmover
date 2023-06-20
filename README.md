@@ -1,8 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Moroz Ihor
-==================================================================================================================================
-
-Python developer and future Data Scientist
-------------------------------------------
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer;I'm%20always%20learning%20something%20new;Future%20DataScientist&font=Fira%20Code&center=true&width=440&height=45&color=4f69c6&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 ### Main technology stack
 
@@ -27,11 +26,12 @@ Python developer and future Data Scientist
 <code>![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</code>
 <code>![Java](https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)</code>
 <code>![CISCO](https://img.shields.io/badge/cisco-%2300599C.svg?style=for-the-badge&logo=cisco&logoColor=white)</code>
+
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/remmover"><img src="https://github-readme-stats.vercel.app/api?username=remmover&show_icons=true&hide=stars,&count_private=true&title_color=ffffff&text_color=22c55e&icon_color=10b981&bg_color=134e4a&hide_border=true&show_icons=true" alt="remmover's GitHub stats" /></a>
+<a href="http://www.github.com/remmover"><img src="https://github-readme-stats.vercel.app/api?username=remmover&show_icons=true&hide=stars,&count_private=true&title_color=FFEF00&text_color=D3D3D3&icon_color=10b981&bg_color=2b3f86&hide_border=true&show_icons=true" alt="remmover's GitHub stats" /></a>
 
-<a href="https://github.com/remmover" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remmover&langs_count=10&title_color=ffffff&text_color=22c55e&icon_color=10b981&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/remmover" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remmover&langs_count=10&title_color=FFEF00&text_color=D3D3D3&icon_color=10b981&bg_color=2b3f86&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
