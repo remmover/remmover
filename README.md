@@ -27,9 +27,7 @@
 <code>![Java](https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)</code>
 <code>![CISCO](https://img.shields.io/badge/cisco-%2300599C.svg?style=for-the-badge&logo=cisco&logoColor=white)</code>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/remmover"><img src="https://github-readme-stats.vercel.app/api?username=remmover&show_icons=true&hide=stars,&count_private=true&title_color=FFEF00&text_color=D3D3D3&icon_color=10b981&bg_color=2b3f86&hide_border=true&show_icons=true" alt="remmover's GitHub stats" /></a>
 
