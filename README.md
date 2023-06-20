@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer;I'm%20always%20learning%20something%20new;Future%20Data%20Scientist&font=Fira%20Code&center=true&width=440&height=45&color=4f69c6&vCenter=true&pause=1000&size=22" /></a>
