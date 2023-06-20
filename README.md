@@ -33,4 +33,4 @@ Python developer and future Data Scientist
 
 <a href="http://www.github.com/remmover"><img src="https://github-readme-stats.vercel.app/api?username=remmover&show_icons=true&hide=stars,&count_private=true&title_color=ffffff&text_color=22c55e&icon_color=10b981&bg_color=134e4a&hide_border=true&show_icons=true" alt="remmover's GitHub stats" /></a>
 
-<a href="https://github.com/remmover" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remmover&langs_count=10&title_color=ffffff&text_color=22c55e&icon_color=10b981&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
