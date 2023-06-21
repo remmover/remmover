@@ -31,5 +31,5 @@
 
 <a href="http://www.github.com/remmover"><img src="https://github-readme-stats.vercel.app/api?username=remmover&show_icons=true&hide=stars,&count_private=true&title_color=FFEF00&text_color=D3D3D3&icon_color=10b981&bg_color=2b3f86&hide_border=true&show_icons=true" alt="remmover's GitHub stats" /></a>
 
-<a href="https://github.com/remmover" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remmover&langs_count=10&title_color=FFEF00&text_color=D3D3D3&icon_color=10b981&bg_color=2b3f86&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="remmover Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=remmover&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=2b3f86&title_color=FFEF00&icon_color=2b3f86&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
