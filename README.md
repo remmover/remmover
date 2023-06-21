@@ -29,7 +29,7 @@
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/remmover"><img src="https://github-readme-stats.vercel.app/api?username=remmover&show_icons=true&hide=stars,&count_private=true&title_color=FFEF00&text_color=D3D3D3&icon_color=10b981&bg_color=2b3f86&hide_border=true&show_icons=true" alt="remmover's GitHub stats" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="remmover Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=remmover&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=2b3f86&title_color=FFEF00&icon_color=2b3f86&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=remmover&langs_count=8&layout=compact&theme=tokyonight&hide_border=false&bg_color=000000&title_color=4169E1&icon_color=800080&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
