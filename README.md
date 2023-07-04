@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=remmover)
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer;I'm%20always%20learning%20something%20new;Future%20Data%20Scientist&font=Fira%20Code&center=left&width=1100&height=45&color=4f69c6&vCenter=false&pause=1000&size=30" /></a>
@@ -25,6 +26,8 @@
 <code>![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)</code>
 <code>![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)</code>
 <code>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</code>
+<code>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</code>
+<code>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</code>
 <code>![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)</code>
 
 ### My GitHub Stats
